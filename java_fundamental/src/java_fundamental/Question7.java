@@ -5,12 +5,9 @@ import java.util.Scanner;
 public class Question7 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        // Get gender input
         System.out.print("Enter gender (Male/Female): ");
         String gender = scanner.nextLine().trim();
 
-        // Get age input
         System.out.print("Enter age: ");
         int age = scanner.nextInt();
 

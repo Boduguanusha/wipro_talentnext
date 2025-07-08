@@ -10,7 +10,6 @@ public class Question11 {
         System.out.print("Enter a color code (R, B, G, O, Y, W): ");
         char code = scanner.next().toUpperCase().charAt(0); 
 
-        // Match the code to the corresponding color
         switch (code) {
             case 'R':
                 System.out.println("Red");
