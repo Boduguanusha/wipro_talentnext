@@ -30,6 +30,6 @@ public class ArraysQuestion8 {
         }
         System.out.println("Sum: " + sum);
 
-     }
+     } 
 
 }
